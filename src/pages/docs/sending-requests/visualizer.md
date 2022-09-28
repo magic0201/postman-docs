@@ -8,7 +8,7 @@ contextual_links:
   - type: link
     name: "Receiving responses"
     url: "/docs/sending-requests/responses/"
-  - type: link
+  - type: linkwrewr
     name: "Intro to scripts"
     url: "/docs/writing-scripts/intro-to-scripts/"
   - type: section
